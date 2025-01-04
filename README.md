@@ -7,6 +7,7 @@
 Olá pessoal, sou a Silvia Guimarães! Inspirada na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
 
 A viagem fascinante para desvendar os mistérios do universo e da criação! ​Uma abordagem lúdica e resumida do livro 🌌
+
 📒 Descrição
 Este e-book de 40 páginas explora um pouco da utilização da IA, na qual foi feito um resumo ludico do livro "A Gênese" de Allan Kardec.
 
